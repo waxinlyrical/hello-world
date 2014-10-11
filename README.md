@@ -1,4 +1,1 @@
-hello-world
-===========
-
-Git Hub Set up guide!
+Doing some stuff to make the readme more understandable. 
